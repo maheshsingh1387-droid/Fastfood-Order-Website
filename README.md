@@ -1,3 +1,4 @@
 # Fastfood-Order-Website
-This is my first repository
-Author-Mahesh
+This is my first git repository
+<br>
+Author-Mahesh Kumar
